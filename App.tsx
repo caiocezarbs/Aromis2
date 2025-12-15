@@ -10,7 +10,7 @@ import HowToBuy from './components/landing/HowToBuy';
 import FAQ from './components/landing/FAQ';
 import CTA from './components/landing/CTA';
 import Footer from './components/landing/Footer';
-
+//gambiarra
 const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-white font-sans text-slate-900 selection:bg-aromis-cyan/20 selection:text-aromis-cyan">
